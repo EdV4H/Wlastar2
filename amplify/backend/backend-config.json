@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "wlastar23924d564": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

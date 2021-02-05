@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wlastar2-dev-150335-authRole",
+      "UnauthRoleArn": "arn:aws:iam::844096456908:role/amplify-wlastar2-dev-150335-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::844096456908:role/amplify-wlastar2-dev-150335-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-wlastar2-dev-150335-deployment",
+      "UnauthRoleName": "amplify-wlastar2-dev-150335-unauthRole",
+      "StackName": "amplify-wlastar2-dev-150335",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:844096456908:stack/amplify-wlastar2-dev-150335/e6f531d0-6777-11eb-8531-06ffc2bc5714",
+      "AmplifyAppId": "d1bu7jfevid8xo"
+    },
+    "categories": {
+      "auth": {
+        "wlastar23924d564": {
+          "hostedUIProviderCreds": "[]"
+        }
+      }
+    }
+  }
+}
